@@ -1,0 +1,91 @@
+Storystorytexts_boundaries/41_Story_Text
+
+
+
+
+James noticed Teresa immediately as she walked into the restaurant- or, more accurately, as she attempted to walk into the restaurant. 
+
+0.15: She was typing intently on her phone and ran straight into the restaurant’s glass door with a painful thud. 
+
+0.15: Everyone waiting around the cash register turned.
+
+0.1: Teresa rubbed her head and put her phone away. 
+
+0.15: She looked somewhat confused but primarily indignant that the door had been in her way. 
+
+0.5*: James found this quite charming and stole a couple glances at her, peeking up from the newspaper he was holding, until she noticed and wrinkled her eyebrows at him. 
+
+0.5*: James and Teresa had both chosen the least busy time to try out Atlanta’s newest sushi restaurant.  
+
+0.15: It was notable for both the food and the decor. 
+
+0.15: There were pine wood countertops and chairs, plants all along the walls, and branch-looking structures hanging from the ceiling. 
+
+****** LOCATION BOUNDARY ******
+
+0.7*: The host sat James and Teresa, who were both dining alone, at the bar. 
+
+0.1: They sat a seat apart from each other.
+
+0.2: The waitress behind the counter gave them bright neon menus that were filled with entrees in Japanese with small, English translations. 
+
+0.1: James quickly glanced through it while Teresa took a longer time. 
+
+****** SOCIAL BOUNDARY ******
+
+0.65*: A few minutes passed until James suddenly turned to Teresa and asked, “Is your forehead alright?”
+
+0.1: She turned to him and smirked.
+
+0.25: “Have you ever been stung by a scorpion?” she asked him.
+
+0.0: “What?” he responded confusedly.
+
+0.0:  “A scorpion.”
+
+0.2: James began to worry that Teresa had possibly suffered a concussion in the door crash.
+
+0.0: “Uh no, why?” he asked.
+
+0.0: “Because I’ve been stung by one, and since then, things like bumping into doors seem like pretty small potatoes.” 
+
+0.55*: They carried on talking, and Teresa told him all about her encounter with a Deathstalker scorpion while she was studying abroad in Egypt, and James told Teresa that he happened to be going to a concert for an Egyptian artist that evening.
+
+****** LOCATION BOUNDARY ******
+
+0.6*: The waitress behind the counter came up to them and asked, “Are you ready for your order?” 
+
+0.05: She first looked at Teresa who answered, “Yes, I’ll have a salmon roll and a Japanese beer.”
+
+0.1: Then the waitress turned to James.
+
+0.05: He said, “I’ll have a tuna roll and a vegetable roll.” 
+
+0.0: “Alright, thank you!” the waitress said.
+
+****** SOCIAL BOUNDARY ******
+
+0.65*: When the waitress left, James decided to go for it, and he asked Teresa if she would like to come with him to the concert.
+
+0.05: He promised her that the concert would be indoors and absolutely free of venomous insects.
+
+0.05: Teresa agreed, gave him her number, and they worked out that James would pick her up that evening before the concert and drive them there.
+
+0.35: This was not what they had expected from their solitary lunch plans, and they were both excited, even though Teresa was doing a much better job of hiding it than James. 
+
+****** LOCATION BOUNDARY ******
+
+0.5*: The waitress brought out their food, placing the plates close to each other so James had to sit closer to Teresa on the bench. 
+
+0.15: Teresa was happy to share the meal with James. 
+
+0.3: They really enjoyed their rolls because the fish tasted very fresh. 
+
+****** SOCIAL BOUNDARY ******
+
+0.65*: James got up to go in a hurry, because he realized it was 3 pm. 
+
+0.1: He left a $50 bill on the table, and as he left he said that it was for both of them with a wink. 
+
+0.05: Teresa laughed and waved goodbye from the bar with her chopsticks. 
+
